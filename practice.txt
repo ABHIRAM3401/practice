@@ -2,4 +2,7 @@ hello
 
 world
 
-7
+7  
+diff
+
+display replaced
